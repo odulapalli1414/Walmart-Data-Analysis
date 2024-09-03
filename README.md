@@ -4,10 +4,10 @@ This project focuses on analyzing Walmart's sales data to identify top-performin
 # Purposes Of The Project
 The major aim of thie project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
 
-About Data
+# About Data
 The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition. This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows:
 
-Column	Description	Data Type
+# Column	Description	Data Type
 | Column Name              | Description                                  | Data Type         |
 |--------------------------|----------------------------------------------|-------------------|
 | `invoice_id`             | Invoice of the sales made                    | `VARCHAR(30)`     |
@@ -30,23 +30,24 @@ Column	Description	Data Type
 
 
 # questions that are answered
-Business Questions To Answer
-Generic Question
-How many unique cities does the data have?
-In which city is each branch?
-Product
-How many unique product lines does the data have?
-What is the most common payment method?
-What is the most selling product line?
-What is the total revenue by month?
-What month had the largest COGS?
-What product line had the largest revenue?
-What is the city with the largest revenue?
-What product line had the largest VAT?
-Fetch each product line and add a column to those product line showing "Good", "Bad". Good if its greater than average sales
-Which branch sold more products than average product sold?
-What is the most common product line by gender?
-What is the average rating of each product line?
+## Business Questions To Answer
+## Generic Question
+
+1. How many unique cities does the data have?
+2. In which city is each branch located?
+3. How many unique product lines does the data have?
+4. What is the most common payment method?
+5. What is the most selling product line?
+6. What is the total revenue by month?
+7. What month had the largest COGS?
+8. What product line had the largest revenue?
+9. What is the city with the largest revenue?
+10. What product line had the largest VAT?
+11. Fetch each product line and add a column to those product lines showing "Good" or "Bad" based on whether it has greater than average sales.
+12. Which branch sold more products than the average number of products sold?
+13. What is the most common product line by gender?
+14. What is the average rating of each product line?
+
 Sales
 Number of sales made in each time of the day per weekday
 Which of the customer types brings the most revenue?
