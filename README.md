@@ -29,7 +29,7 @@ The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition. 
 | `rating`                 | Rating                                       | `FLOAT(2, 1)`     |
 
 
-# questions that are answered
+# Here are the questions that have been addressed:
 ## Business Questions To Answer
 ## Generic Question
 
