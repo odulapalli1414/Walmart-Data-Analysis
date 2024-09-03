@@ -30,7 +30,6 @@ The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition. 
 
 
 # Here are the questions that have been addressed:
-## Business Questions To Answer
 ## Generic Question
 
 1. How many unique cities does the data have?
